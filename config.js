@@ -41,7 +41,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['59822229757'] //ur owner number
+global.owner = ['85255630022'] //ur owner number
 global.ownername = "Obbizzz?:)"
 global.ytname = "YT: obbizzzz" //ur yt chanel name
 global.socialm = "GitHub: Obbiz" //ur github or insta name
@@ -55,8 +55,8 @@ global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
 global.author = "Obbizz Checkmate man"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['59822229757'] //ur owner tag
-global.ownernummenu = ['59822229757'] //ur owner number in menu and all
+global.ownertag = ['85255630022'] //ur owner tag
+global.ownernummenu = ['85255630022'] //ur owner number in menu and all
 global.watermark = "Obbiz ?Inc." //ur watermark
 global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
 global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
